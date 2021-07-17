@@ -1,0 +1,7 @@
+name: nirbaaFfeznix
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  pdf: ^3.4.2

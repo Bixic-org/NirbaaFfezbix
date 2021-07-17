@@ -1,0 +1,23 @@
+nirbaaFfezbix.txt
+
+
+Nirbāghu' Ƣeznē'bixic
+　　( 2 段ある項目は後者が用法込み、前者がそうではない)
+
+
+名詞変化：25 × 4 = 100 [通り]
+　格　：25 (cases)
+　数　：4 (numbers)
+
+
+動詞変化：7 × 4 × 2 × 7 × 5 × 9 + 1 = 17641 [通り]
+　　　　　7 × 4 × 7 × 13 × 5 × 9 + 1 = 114661 [通り]
+　人称：7 (persons)
+　数　：4 (numbers)
+　態　：2 (vices)
+　　　：7 (voices)
+　法　：7 (moods)
+　　　：13 (moods)
+　時制：5 (tenses)
+　相　：9 (aspects)
+　不定詞：1 (infins)
